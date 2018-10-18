@@ -2,6 +2,4 @@
 input	clk;
 input	in;
 output	out;
-reg	;
-
-444
+git tracks changes.
